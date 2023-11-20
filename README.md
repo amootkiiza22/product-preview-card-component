@@ -1,0 +1,1 @@
+This is a solution of product preview component card built using HTML and CSS.
